@@ -1,7 +1,7 @@
 Popcorn Time Streaming
 ====================
 
-Demo URL:http://ptstream.co.nf/
+Demo URL: http://popcorntimemobile.github.io/popcorntimestreaming
 
 Stream popcorn time to your any mobile device or computer with this website
 
